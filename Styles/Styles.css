@@ -2,5 +2,11 @@ h1{
     color:darkolivegreen;
 }
 p{
-    
+
+}
+.btn{
+    padding: 0.5rem;
+    background-color: indianred;
+    color:black;
+    border-radius:5px;
 }
